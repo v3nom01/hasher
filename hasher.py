@@ -1,4 +1,4 @@
-# Text To md5 or sha256 Hash Converting Script By v3nom01
+# Text To Different Hash Converting Script By v3nom01
 
 import time
 import colorama
